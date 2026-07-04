@@ -6,4 +6,4 @@
 </center>
 
 ## Modification
-Replace `https://discord.gg/CjU4CrPTcf` to `your discord server invite link`
+Replace `https://discord.gg/N6d49Y75Nw` to `your discord server invite link`
